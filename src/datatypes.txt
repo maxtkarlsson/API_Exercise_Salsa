@@ -1,0 +1,33 @@
+
+Data:
+Kurs
+	Namn
+	Tillfällen
+	Instruktör
+	Beskrivning
+	Nivåer
+	Pris
+
+Tillfällen
+	KursId
+	Dag & tid
+	Plats
+	Deltagare
+	Max antal deltagare
+
+Deltagare
+	Förnamn
+Efternamn
+	Mail
+	Telefon
+	Kurser
+
+Event
+	Typ av event
+	Tid & dag 
+	Plats
+	
+Instruktör
+	Namn
+	Beskrivning
+Kurser
